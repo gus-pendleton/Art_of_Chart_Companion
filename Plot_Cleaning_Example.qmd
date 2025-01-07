@@ -7,7 +7,9 @@ format:
     toc-location: left
     code-overflow: scroll
     theme: superman
-    embed-resources: true
+    embed-resources: false
+    output-file: "index"
+
 execute: 
   keep-md: true
 editor_options: 
